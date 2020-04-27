@@ -9,3 +9,9 @@
 - 'log': look at al lthe commit history you've been doing
 	- 'log --online': simple one line log view
 - 'diff': look at differences between current state and what git knows
+
+
+- remote: a place where the git repo is stored, ex: GitHub
+	- 'git remote add origin <URL>' add a remote
+- git push origin master: to push master branch on our local computer to the remote 
+
