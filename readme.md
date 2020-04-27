@@ -1,0 +1,2 @@
+- init: create a git respository in current directory
+- status: tell you what 
