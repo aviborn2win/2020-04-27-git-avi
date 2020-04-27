@@ -9,6 +9,7 @@
 - 'log': look at al lthe commit history you've been doing
 	- 'log --online': simple one line log view
 - 'diff': look at differences between current state and what git knows
+- checkout: moving our head
 
 
 - remote: a place where the git repo is stored, ex: GitHub
