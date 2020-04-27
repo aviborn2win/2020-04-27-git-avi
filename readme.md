@@ -1,4 +1,6 @@
-# 2020-04-27-git Git Lesson  
+#2020-04-27-git Git Lesson  
+
+## Notes for local
 
 - init: create a git respository in current directory
 	- you should only do this once in a repository (i.e. no nested git repos)
